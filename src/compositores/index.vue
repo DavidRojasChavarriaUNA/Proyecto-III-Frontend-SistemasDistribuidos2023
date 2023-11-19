@@ -90,6 +90,7 @@
                         this.compositores = respuestaServidor.data;
                         this.$emit('mostrarMensaje', MensajeDatosRecientes);
                     } else {
+                        this.compositores = [];
                         this.$emit('mostrarMensaje', respuestaServidor);
                     }
                 } catch (error) {

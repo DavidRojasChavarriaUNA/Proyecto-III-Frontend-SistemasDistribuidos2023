@@ -88,6 +88,7 @@
                         this.peliculas = respuestaServidor.data;
                         this.$emit('mostrarMensaje', MensajeDatosRecientes);
                     } else {
+                        this.peliculas = [];
                         this.$emit('mostrarMensaje', respuestaServidor);
                     }
                 } catch (error) {

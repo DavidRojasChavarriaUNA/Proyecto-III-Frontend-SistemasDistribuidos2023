@@ -88,6 +88,7 @@
                         this.albumes = respuestaServidor.data;
                         this.$emit('mostrarMensaje', MensajeDatosRecientes);
                     } else {
+                        this.albumes = [];
                         this.$emit('mostrarMensaje', respuestaServidor);
                     }
                 } catch (error) {
