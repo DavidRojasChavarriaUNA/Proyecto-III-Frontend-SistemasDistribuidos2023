@@ -1,7 +1,7 @@
 {
-    "name": "proyecto_02_sistemas_distribuidos",
+    "name": "proyecto_03_sistemas_distribuidos",
     "version": "1.0.0",
-    "description": "Proyecto II, sistemas distribuidos 2023 - UNA",
+    "description": "Proyecto III, sistemas distribuidos 2023 - UNA",
     "author": "David Rojas Chavarria",
     "scripts": {
         "dev": "vite",
