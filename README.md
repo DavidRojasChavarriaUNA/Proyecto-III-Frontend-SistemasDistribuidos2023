@@ -17,7 +17,7 @@ Repositorio \
 	https://github.com/DavidRojasChavarriaUNA/Proyecto-III-Frontend-SistemasDistribuidos2023 \
 
 URL del Frontend \
-	https://proy-iii-front-drch-sist-dist-una-2023.netlify.app/
+	https://proy-iii-front-drch-sist-dist-una2023.netlify.app/
 
 Para ejecutar el proyecto deberá ejecutar los siguientes pasos:
 
